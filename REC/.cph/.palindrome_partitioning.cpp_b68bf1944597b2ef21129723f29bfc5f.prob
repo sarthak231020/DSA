@@ -1,0 +1,1 @@
+{"name":"Local: palindrome_partitioning","url":"c:\\DSA\\REC\\palindrome_partitioning.cpp","tests":[{"id":1643437693875,"input":"aab","output":""},{"id":1643438745520,"input":"ITI","output":""},{"id":1643450703987,"input":"abc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\REC\\palindrome_partitioning.cpp","group":"local","local":true}

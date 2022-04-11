@@ -1,0 +1,1 @@
+{"name":"Local: AllocateBooks","url":"c:\\DSA\\AllocateBooks.cpp","tests":[{"id":1646295960188,"input":"4 2 \n12 34 67 90","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\AllocateBooks.cpp","group":"local","local":true}

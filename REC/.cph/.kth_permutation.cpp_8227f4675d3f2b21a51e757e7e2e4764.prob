@@ -1,0 +1,1 @@
+{"name":"Local: kth_permutation","url":"c:\\DSA\\REC\\kth_permutation.cpp","tests":[{"id":1643537302809,"input":"4 17","output":""},{"id":1643539052459,"input":"3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\REC\\kth_permutation.cpp","group":"local","local":true}

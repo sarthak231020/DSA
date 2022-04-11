@@ -1,0 +1,1 @@
+{"name":"Local: AggressiveCows","url":"c:\\DSA\\BinarySearch\\AggressiveCows.cpp","tests":[{"id":1646230584749,"input":"5 3 \n1 2 4 6 8 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\BinarySearch\\AggressiveCows.cpp","group":"local","local":true}

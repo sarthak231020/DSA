@@ -1,0 +1,1 @@
+{"name":"Local: AnagramStr","url":"c:\\DSA\\AnagramStr.cpp","tests":[{"id":1646401143470,"input":"geeksforgeeks\nforgeeksgeeks","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\DSA\\AnagramStr.cpp","group":"local","local":true}
